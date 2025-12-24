@@ -89,7 +89,7 @@ The goal is to convert raw sales data into **actionable business insights** usin
 
 ## 📷 Dashboard Preview
 
-
+Screenshot link : https://github.com/qureshibelal18/Classic-models-dashboard/blob/main/Dashboard%20snapshot.png
 
 ---
 
